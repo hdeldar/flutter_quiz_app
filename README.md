@@ -1,5 +1,10 @@
 # flutter_quiz_app
 
+![Flutter Quiz App](./flutter-quiz-app.jpg "Flutter Quiz App").
+
+This project update and solve some bugs from [flutter-quiz-app](https://github.com/FlutterTutorialNet/flutter-quiz-app)
+
+
 Flutter Quiz App
 
 ## Getting Started
